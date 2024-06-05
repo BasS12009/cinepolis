@@ -12,6 +12,7 @@ import java.util.List;
  * @author 
  */
 public class Boleto {
+    // ni modo, toco hacerlo en el visual jsjsj control + s pa guardar 
     
     private Long id;
     private double costo;
